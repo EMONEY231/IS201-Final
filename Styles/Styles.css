@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: lightyellow;}
+    
+li {
+    font-size: 14px;
+    font-style: italic;  
+    font-weight: normal;}
+a {color: black;
+text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: blue;
+}
+.ResumeListHeading {
+    font-weight: bold;
+    font-style: normal;}
+.Underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+.homebg {
+    background-image: url(https://static.euronews.com/articles/stories/06/78/06/90/1440x810_cmsv2_9cec488a-342c-5f59-b8dd-d32c3826706f-6780690.jpg);
+    background-position: top left;
+    /* background-repeat: ; */
+}
+.box1 {
+border-width: 1px;
+border-style: solid;
+border-color: gray;
+
+/*border: 1px solid gray;*/
+}
+.box2 {
+padding: 5px;
+} /* Wouldn't normally use the word 'box'*/
+.box3{
+margin: 50px;
+}
